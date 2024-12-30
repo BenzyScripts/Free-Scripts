@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/BenzyScripts/Scripts-Roblox-2024-/raw/refs/heads/main/Anim.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BenzyScripts/Scripts-Roblox-2024-/refs/heads/main/Anim.lua"))()
